@@ -1,0 +1,27 @@
+_repo: The-president-s-daughter_74595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Britton, Nan
+    gutenberg_agent_id: '57574'
+    url: http://www.gutenberg.org/2009/agents/57574
+description: ''
+gutenberg_issued: '2024-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74595'
+language: en
+pgterms:marc904: https://archive.org/details/presidentsdaught00brit/page/n7/mode/2up
+pgterms:marc905: 20221229072012britton
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bElizabeth Ann Guild, Inc., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The president's daughter
+url: http://www.gutenberg.org/ebooks/74595
